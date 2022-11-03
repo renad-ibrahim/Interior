@@ -1,0 +1,481 @@
+.tm-arrow-tab.elementor-widget-tabs .elementor-tab-desktop-title.elementor-active:before {
+	border-bottom-color: #292929;
+}
+
+.themetechmount-servicebox-styletwo .tm-featured-wrapper,
+.themetechmount-servicebox-styletwo .themetechmount-post-item,
+.themetechmount-servicebox-styletwo .item-content {
+    background-color: #292929;
+}
+.themetechmount-box-blog.themetechmount-blogbox-styleone .themetechmount-box-desc {
+    background-color: transparent;
+    border: 1px solid rgb(231 231 231 / 12%);
+}
+.tm-arrow-tab.elementor-widget-tabs .elementor-tab-desktop-title {
+    border-bottom: 2px solid rgba(231, 231, 231,0.12) !important;
+}
+
+.main-holder .site-content nav.woocommerce-pagination ul li span, .main-holder .site-content nav.woocommerce-pagination ul li a, .themetechmount-pagination .page-numbers,
+.themetechmount-darklayout .post.themetechmount-box-blog-classic .tm-box-post-date,
+.themetechmount-iconbox-stylesix .tm-iocnbox-btn a,
+.single article.post blockquote,
+.themetechmount-box-blog.themetechmount-blogbox-styleone .tm-box-post-date,
+.themetechmount-servicebox-styletwo .themetechmount-box-title h4 a,
+.themetechmount-servicebox-styletwo .themetechmount-serviceboxbox-readmore.figcaption.fborder a {
+    color: #fff;
+}
+
+.tm-textcolor-white a:not(:hover),
+.tm-textcolor-white,
+.tm-ptablebox-features .tm-feature-lines li,
+.tm_coverimgbox_wrapper .themetechmount-static-box-desc,
+.themetechmount-boxes-service .tm-box-col-wrapper:nth-child(2) .themetechmount-servicebox-styletwo .item-content,
+.themetechmount-servicebox-styletwo .item-content {
+    color: rgba(255, 255, 255,0.70);	
+}
+.themetechmount-servicebox-styletwo .themetechmount-post-item {
+    border-right: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.single-tm_portfolio .tm-pf-single-category-w a, .single-post .themetechmount-blogbox-sharebox .themetechmount-tags-links a,
+.tm-social-share-links ul li a,
+.sidebar .widget .tagcloud a,
+.widget .woocommerce-product-search .search-field, .widget .search-form .search-field,
+.themetechmount-testimonialbox-styleone .themetechmount-box-content {
+    border: 1px solid #323232;
+    background-color: #323232;
+}
+
+.themetechmount-box-blog.themetechmount-blogbox-stylethree .themetechmount-box-desc,
+.themetechmount-darklayout .themetechmount-teambox-style2 .tm-team-social-links-wrapper ul,
+.themetechmount-darklayout .themetechmount-teambox-style2 .themetechmount-box-content,
+.themetechmount-testimonialbox-styleone .themetechmount-box-content:after,
+.themetechmount-testimonialbox-styleone .themetechmount-box-content:before {
+	background-color: #232323;	
+}
+.themetechmount-blogbox-stylethree .tm-featured-outer-wrapper.tm-post-featured-outer-wrapper:after,
+.themetechmount-box-blog.themetechmount-blogbox-styleone .themetechmount-blogbox-desc-footer a {
+    background-color: #292929;
+	border-color: rgba(255, 255, 255,0.60);
+    color: rgba(255, 255, 255,0.60);
+}
+.tm-btn-style-outline.tm-btn-color-white .elementor-button {
+	border-color: rgba(255, 255, 255,0.60) !important;
+    color: rgba(255, 255, 255,0.60);
+}
+.themetechmount-blogbox-stylethree .tm-featured-outer-wrapper.tm-post-featured-outer-wrapper {
+	border-color: #292929;
+}
+.themetechmount-box-blog.themetechmount-blogbox-styleone .themetechmount-blogbox-desc-footer a:hover {
+	color: #292929;
+}
+.themetechmount-box-blog .themetechmount-box-content .tm-entry-meta .tm-meta-line:after {
+    background-color: rgba(231, 231, 231,0.09);
+}
+.tm-textbox-quote blockquote {
+    color: rgba(255, 255, 255,0.70);
+}
+
+.tm-sresult-form-sbtbtn-wrapper input.tm-sresult-form-sbtbtn:not(:hover),
+.themetechmount-darklayout .tm-sresults-title small a:hover,
+.tm-btn-style-flat.tm-btn-color-skincolor .elementor-button:hover,
+.tm-btn-style-outline.tm-btn-color-white .elementor-button:hover,
+.themetechmount-darklayout .tm-banner-third .themetechmount-banner-style1 .tm-iocnbox-btn a:hover,
+.themetechmount-darklayout .tm-banner-first .themetechmount-banner-style1 .tm-iocnbox-btn a:hover, .themetechmount-darklayout .themetechmount-box-blog.themetechmount-blogbox-styleone .themetechmount-blogbox-desc-footer a:hover, 
+.themetechmount-darklayout .post.themetechmount-box-blog-classic .themetechmount-blogbox-footer-readmore a:hover,
+.themetechmount-darklayout .themetechmount-box-blog.themetechmount-blogbox-styleone .themetechmount-blogbox-desc-footer a:hover {
+	color:#323232;
+}
+.themetechmount-darklayout .tm-sresults-title small a:hover {
+	color:#323232 !important;
+}
+.themetechmount-servicebox-stylethree .themetechmount-post-item {
+    border: 1px solid rgba(255,255,255,0.15);
+    background-color: #292929;
+}
+.themetechmount-servicebox-stylethree:before {
+    background-color: #292929;
+}
+.themetechmount-servicebox-stylethree .themetechmount-post-item:after,
+.themetechmount-servicebox-stylethree .themetechmount-post-item:before {
+	border-color: rgb(255, 255, 255,0.15);
+}
+.tm-heading-style-horizontal.tm-element-heading-content-wrapper .tm-content-header:after {
+    border-right-color: rgba(255, 255, 255, 0.08);
+}
+.tm_coverimgbox_wrapper .tm_coverbox_contents {
+    border-color:rgba(256,256,256,0.1);
+}
+
+.themetechmount-iconbox-styleeight .themetechmount-iconbox-inner,
+.tm-single-image-wrapper:not(.imagestyle-two) .tm-single-image-inner .tm-desctext,
+.themetechmount-servicebox-stylesix .tm-box-icon i,
+.themetechmount-servicebox-stylesix,
+.themetechmount-box-blog.themetechmount-blogbox-style11 .themetechmount-box-content,
+.themetechmount-box-blog.themetechmount-blogbox-stylenine .themetechmount-box-desc,
+.main-holder .site-content nav.woocommerce-pagination ul li span, .main-holder .site-content nav.woocommerce-pagination ul li a, .themetechmount-pagination .page-numbers,
+.select2-dropdown,
+.themetechmount-teambox-style1 .tm-team-social-links-wrapper ul li a:not(:hover),
+.themetechmount-servicebox-styleone .themetechmount-box-bottom-content,
+.themetechmount-darklayout blockquote,
+.themetechmount-stepboxes-wrapper.tm-staticbox-style1 .tm-ptable-icon-wrapper:before,
+.themetechmount-darklayout .tm-ptablebox .themetechmount-ptable-main,
+.elementor-progress-percentage,
+.single-tm_portfolio.themetechmount-darklayout .nav-next a:not(:hover), .single-tm_portfolio.themetechmount-darklayout .nav-previous a:not(:hover),
+.tm-sortable-list .tm-sortable-link a,
+#sidebar-left.sidebar .widget,
+.single article.post blockquote,
+article.themetechmount-box-blog-classic .tm-blog-classic-box-content,
+.tm-titlebar-wrapper.tm-breadcrumb-on-bottom.tm-breadcrumb-bgcolor-white .tm-titlebar .breadcrumb-wrapper .container,
+.themetechmount-iconbox-stylefive .themetechmount-iconbox-inner,
+.themetechmount-blogbox-stylefour .themetechmount-box-desc,
+.themetechmount-iconbox.themetechmount-iconbox-styleone.themetechmount-iconbox-stylethree {
+	background-color: var(--tm-secondary-bg);
+}
+.tm-fid-view-circle-progress.inside h3 span {
+    color: inherit;
+}
+.themetechmount-blogbox-stylefour .tm-footer-content {
+    border-color:rgba(255,255,255,0.07);
+}
+.sidebar .widget .widget-title {
+    border-bottom: 1px solid rgba(255, 255,255, 0.09);
+}
+
+.tm-ptablebox-features .tm-feature-lines li,
+.tm-ptablebox-features .tm-feature-lines li:first-child,
+.themetechmount-iconbox.themetechmount-iconbox-stylesix,
+.tm-nextprev-bottom-nav,
+.single-post article.post .entry-content,
+.themetechmount-box-blog-classic .themetechmount-box-desc-text,
+.sidebar .widget ul:not(.slides):not(.cart_list):not(.inoterior_contact_widget_wrapper):not(.inoterior_category_list_widget):not(.tm-all-post-list) > li {
+    border-color:rgba(255, 255, 255, 0.09);
+}
+.themetechmount-darklayout .tm-accor-style1 .elementor-accordion .elementor-tab-title {
+	border-color:rgba(255, 255, 255, 0.09) !important;
+}
+article.themetechmount-box-blog-classic .tm-entry-meta .tm-meta-line:after {
+    background-color: rgba(231, 231, 231, 0.1);
+} 
+
+.comment-form input[type="submit"],
+ .post.themetechmount-box-blog-classic .themetechmount-blogbox-footer-readmore a {
+	border-color: rgba(255, 255, 255,0.60);
+	color:rgba(255, 255, 255,0.60);
+	background-color: #292929;
+}
+#sidebar-left .tm-quicklink-box,
+.woocommerce-account .woocommerce-MyAccount-navigation li a, .widget.tm_widget_nav_menu li a, .widget.inoterior_all_post_list_widget li a, .widget.inoterior_category_list_widget li a {
+	    background-color: #292929;
+}
+.tm-team-member-single-content-wrapper .tm-team-member-single-content {
+    background-image:unset;
+    background-color: #323232;
+}
+.elementor-progress-percentage:before {
+    position: absolute;
+    top: 17px;
+    width: 0;
+    height: 0;
+    border-width: 5px 5px 0px 5px;
+    border-style: solid;
+    z-index: 1;
+    content: "";
+    left: 0;
+    border-color: #323232 transparent #323232 transparent;
+    left: 0px;
+    right: 0;
+    top: 25px;
+    display: block;
+    margin: 0 auto;
+}
+.themetechmount-stepboxes-wrapper.tm-staticbox-style1 .tm-stepbox-content .tm-ptable-icon-wrapper {
+    color: inherit;	
+}
+.themetechmount-darklayout .themetechmount-stepboxes-wrapper.tm-staticbox-style1 .tm-stepbox-content:hover .tm-ptable-icon-wrapper {
+    background-color: transparent;
+}
+blockquote {
+    color: #fff;
+}
+
+.themetechmount-teambox-style1 .themetechmount-box-content,
+.themetechmount-box.themetechmount-teambox-style1 {
+    background-color: #323232;
+    border-color: rgba(255, 255, 255, 0.09);
+}
+.select2-container--default .select2-selection--single, .select2-dropdown {
+    border: 1px solid #323232;
+}
+.tm-textbox-quote blockquote {
+    background-color: transparent !important;
+}
+.tm-sresult-form-sbtbtn-wrapper input.tm-sresult-form-sbtbtn {
+    color: #ffffff !important;
+    background-color: #323232;
+}
+.themetechmount-darklayout .elementor-widget-tabs .elementor-tab-content ul li {
+	    color: #b3b3b3;
+}
+.tm_coverimgbox_wrapper .tm_coverbox_contents:before {
+    background: rgba(0, 0, 0, 0.20);
+}
+.tm-bgcolor-darkgrey .tm-fid.inside h3 {
+    color: rgba(255, 255, 255,0.60);
+}
+.single-tm_team_member .themetechmount-team-member-single-content-area .tm-team-member-single-title-wrapper .tm-team-social-links-wrapper ul li a:not(:hover),
+.social-icons li > a:not(:hover) {
+	border-color:rgba(255, 255, 255,0.60);
+}
+
+/************************* section1 css ************************************************************************/
+
+.tm-textblock-underline.tm-textcolor-white strong {
+    color: var(--tm-skincolor-bg);
+}
+.elementor-element.elementor-widget-button.tm-btn-color-darkgrey .elementor-button {
+    background-color: var(--tm-secondary-bg);
+}
+.tm-element-heading-content-wrapper.left-align .tm-element-content-desctxt {
+    color: rgba(255,255,255,.60);
+}
+.elementor-element .elementor-widget-container {
+    color: rgba(255,255,255,.60);
+}
+.elementor-element.elementor-widget-button.tm-btn-color-darkgrey .elementor-button:hover {
+    background-color:  var(--tm-skincolor-bg);
+}
+.tm-boxstyle-classic .themetechmount-servicebox-styleone .themetechmount-serviceboxbox-readmore a {
+    color: var(--tm-skincolor-bg);
+}
+
+/************** servicebox style one css *****************************/
+.tm-boxstyle-classic .themetechmount-servicebox-styleone .themetechmount-box-bottom-content{
+    background-color: var(--tm-secondary-bg);
+    border: 1px solid #2e2824;
+}
+.tm-boxstyle-classic .themetechmount-servicebox-styleone .themetechmount-serviceboxbox-readmore {
+    border-top: 1px solid #2e2824;
+}
+
+.tm-boxstyle-classic .themetechmount-servicebox-styleone:hover .themetechmount-box-bottom-content {
+    background-color: var(--tm-skincolor-bg);
+    border: 1px solid var(--tm-skincolor-bg);
+    transition: all .5s ease;
+}
+.tm-boxstyle-classic .themetechmount-servicebox-styleone:hover .themetechmount-serviceboxbox-readmore a {
+    color: #fff;
+}
+.tm-boxstyle-classic .themetechmount-servicebox-styleone:hover .themetechmount-serviceboxbox-readmore {
+    border-top: 1px solid #cdad92;
+}
+.tm-boxstyle-classic .themetechmount-servicebox-styleone:hover .tm-box-icon {
+    color: #fff;
+}
+.themetechmount-servicebox-styleone .themetechmount-box-bottom-content:before{
+    content: none;
+}
+.themetechmount-servicebox-styleone .themetechmount-box-title h4 a:hover {
+    color: #fff;
+}
+.elementor-view-stacked .elementor-icon:hover {
+    color: #fff;
+}
+.elementor-view-stacked.elementor-shape-square.elementor-widget-icon .elementor-widget-container i:before {
+    bottom: auto;
+    font-size: 50px;
+    position: absolute;
+    top: 10px;
+}
+/***************** section 4 testimonialbox style 4 css *********************/
+.themetechmount-boxes-view-slickview .themetechmount-boxes-row-wrapper{
+    background-color: #0e1317;
+}
+ .themetechmount-boxes-view-slickview .themetechmount-box-desc .themetechmount-box-title{
+    background-color: var(--tm-secondary-bg);
+    border: none;
+}
+.themetechmount-boxes-testimonial.themetechmount-boxes-view-slickview .themetechmount-box-desc .themetechmount-testimonial-text {
+    color: var(--body-fonts-color);
+    font-family: var(--body-font-family);
+    font-weight: 500;
+     margin: 0;
+   padding: 70px 35px 30px 40px;
+}
+.themetechmount-boxes-testimonial.themetechmount-boxes-view-slickview .themetechmount-author-name{
+        color: var(--tm-skincolor-bg);
+}
+.themetechmount-boxes-testimonial .themetechmount-box-footer {
+    color: #818181;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+}
+
+.themetechmount-boxes-testimonial.themetechmount-boxes-view-slickview .slick-slide .themetechmount-box-desc .themetechmount-testimonial-text:before {
+    content: '';
+    -webkit-mask: url(../images/quote-1-1.svg) no-repeat 100% 100%;
+    mask: url(../images/quote-1-1.svg) no-repeat 100% 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    display: block;
+    background-color: var(--tm-skincolor-text);
+    margin: 0 auto;
+}
+.themetechmount-boxes-gap-30px .themetechmount-boxes-row-wrapper.row:not(.slick-slider) .tm-box-col-wrapper {
+    padding-top: 0;
+}
+.themetechmount-boxes-view-slickview .themetechmount-boxes-row-wrapper{
+    margin-top: 68px;
+}
+/***************** section 5 blogbox style10 csss *********************/
+.themetechmount-box-blog.themetechmount-blogbox-styleten .tm-box-post-date span {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    color: var(--tm-skincolor-text);
+    padding-top: 10px;
+}
+.themetechmount-box-blog.themetechmount-blogbox-styleten .tm-box-post-date {
+    background-color: transparent;
+    position: absolute;
+    display: table-cell;
+    vertical-align: top;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 26px;
+    top: 85px;
+	left: 20px;
+}
+.themetechmount-blogbox-styleten .tm-blog-post-cat a {
+    color: var(--tm-skincolor-bg);
+}
+.themetechmount-blogbox-styleten .themetechmount-blogbox-footer-left {
+    padding-left: 5px;
+}
+
+.tm-icon-middle .themetechmount-iconbox.themetechmount-iconbox-style17 .tm-box-icon {
+    border: 1px solid #2e2824;
+}
+
+.themetechmount-blogbox-styleten .themetechmount-box-content-inner .tm-icon-box a {
+    align-items: center;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    margin: 0;
+    background-color: var(--tm-skincolor-text);
+    font-size: 16px;
+    text-align: center;
+    line-height: 31px;
+}
+.themetechmount-blogbox-styleten .themetechmount-box-content-inner .themetechmount-blogbox-footer-left a {
+    text-transform: uppercase;
+}
+.tm_hoverimgbox_wrapper:not(.tm-projectbox) .tm_hoverbox_img:before {
+    content: '';
+    position: absolute;
+    height: 100%;
+    width: 100%;
+     background:none;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+}
+/********************************   header css *********************************/
+.tm-header-style-classic3.tm-header-style-classic-style2 .header-widget .header-icon i {
+    font-size: 25px;
+}
+.tm-header-style-classic3.tm-header-style-classic-style2 .header-widget .header-icon .icon {
+    border: none;
+    background-color: var(--tm-secondary-bg);
+}
+.tm-header-style-classic3.tm-header-style-classic-style2 .header-widget .header-icon i {
+    color: var(--tm-skincolor-bg);
+}
+.tm-bgcolor-darkgrey .tm-sticky-bgcolor-white {
+    background-color: #0e1317;
+}
+.tm-blog5-custom-style .themetechmount-box-blog.themetechmount-blogbox-stylefive .themetechmount-box-desc,
+.tm-header-style-classic3 .site-header-main .headerlogo{
+    background-color: var(--tm-secondary-bg);
+}
+.tm-header-style-classic3 .header-widget h5{
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+}
+.tm-header-style-classic3.tm-header-style-classic-style2 .header-widget h3 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+    color: rgba(255,255,255,0.60);
+}
+.tm-header-style-classic3.tm-header-style-classic-style2 .header-widget span h5 a {
+    color: var(--tm-skincolor-bg);
+}
+.tm-titlebar-wrapper.tm-breadcrumb-on-bottom.tm-breadcrumb-bgcolor-white .tm-titlebar .breadcrumb-wrapper .container,
+.tm-header-style-classic3 .site-header-main .headerlogo:before {
+    background-color: var(--tm-secondary-bg);
+}
+.tm-header-style-classic3 .site-header-main .headerlogo:after{
+      background-color: var(--tm-secondary-bg);
+}
+.single-tm_portfolio .tm-pf-single-category-w a, .single-post .themetechmount-blogbox-sharebox .themetechmount-tags-links a, .tm-social-share-links ul li a, .sidebar .widget .tagcloud a, .widget .woocommerce-product-search .search-field, .widget .search-form .search-field, .themetechmount-testimonialbox-styleone .themetechmount-box-content {
+	 background-color: var(--tm-secondary-bg);
+	 border-color: var(--tm-secondary-bg);
+}
+.tm-stickable-header{
+    background-color: #0e1317;
+}
+.mc4wp-mail-class .mailchimp-inputbox-demo6 input[type="submit"] {
+    font-size: 15px;
+    font-weight: 400;
+      text-transform: uppercase;
+}
+
+.bottom-footer-text.tm-textcolor-white .tm-footer2-right .footer-nav-menu a:not(:hover) {
+    color: rgba(255, 255, 255, 0.60);
+}
+.footer .social-text-widget .social-icons li a {
+    border-radius: 0;
+    border: 1px solid #2e2824;
+}
+.footer-nav-menu li {
+    font-size: 15px;
+}
+.footer .widget ul > li.tm-inline-menu {
+    display: inline-block;
+    padding: 15px 0px 12px 0;
+}
+.footer .widget.widget_nav_menu li.tm-inline-menu a:before{
+    content: none;
+}
+.footer .widget ul > li.tm-inline-menu a {
+    color: #fff;
+      padding-right: 20px;
+}
+.footer .widget ul > li.tm-inline-menu a:hover {
+    color: var(--tm-skincolor-bg);
+}
+.widget.widget_nav_menu.tm-menu-sep-arrow li a:before {
+    top: 8px;
+    left: 0;
+    font-size: 9px;
+}
+.tm-recent-post-list .post-detail a:not(:hover),
+.tm-menu-sep-arrow .menu-item-type-custom a:not(:hover) {
+    color: #fff;
+}
+ul.footer-nav-menu li:after {
+    opacity: 0.3;
+}
+.themetechmount-stepboxes-wrapper.tm-staticbox-style3 .tm-stepbox .tm-ptable-icon-wrapper,
+.themetechmount-stepboxes-wrapper.tm-staticbox-style3 .tm-stepbox .tm-ptable-icon-wrapper:before {
+	border: 1px solid rgba(255, 255, 255, 0.09);
+}
